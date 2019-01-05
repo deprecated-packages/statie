@@ -5,9 +5,10 @@ services:
     _defaults:
         public: true
         autowire: true
+        autoconfigure: true
 
     Symplify\Statie\Twig\:
-        resource: '..'
+        resource: '../src'
 
     # twig setup
     Twig\Loader\ArrayLoader:
