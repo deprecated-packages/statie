@@ -1,0 +1,2 @@
+parameters:
+    github_repository_source_directory: "https://github.com/TomasVotruba/tomasvotruba.com/tree/master/source"
