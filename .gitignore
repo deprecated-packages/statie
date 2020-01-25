@@ -1,0 +1,6 @@
+composer.lock
+/vendor
+
+# Statie directories
+/source
+/output

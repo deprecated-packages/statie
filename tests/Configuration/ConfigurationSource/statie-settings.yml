@@ -1,0 +1,3 @@
+parameters:
+    post_route: "blog/:year/:month/:day/:title"
+    github_repository_source_directory: "https://github.com/TomasVotruba/tomasvotruba.com/tree/master/source"
