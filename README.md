@@ -2,7 +2,9 @@
     <img src="docs/logo.svg">
 </p>
 
-<h1 align="center">Statie - Modern and Simple Static Site Generator in PHP</h1>
+<h1 align="center">[DEPRECATED since 2020-03] Statie - Modern and Simple Static Site Generator in PHP</h1>
+
+## Use [Symfony Static Dumper](https://github.com/symplify/symfony-static-dumper) instead
 
 [![Downloads](https://img.shields.io/packagist/dt/symplify/statie.svg?style=flat-square)](https://packagist.org/packages/symplify/statie/stats)
 
